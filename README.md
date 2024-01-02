@@ -32,7 +32,7 @@ This projects employs the MIT License.
 
 ## How to Contribute
 
-If any problems arise while using the Employee Tracker, definitely open a new issue or submit a pull request through this repository. Feel free, as well, to contact me via email regarding anything at all about this, or any of my other, applications!
+If any problems arise while using the Employee Tracker, definitely open a new issue or submit a pull request through this repository. Feel free, as well, to contact me via email regarding anything at all about this or any of my other applications!
 
 My email is: chrisrice2442@yahoo.com
 
