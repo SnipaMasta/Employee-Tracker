@@ -5,7 +5,7 @@ VALUES
 ('Legal'),
 ('Finances'),
 ('Engineering'),
-('R & D'),
+('R & D');
 
 INSERT INTO roles (title, salary, department_id)
 VALUES
@@ -25,6 +25,6 @@ VALUES
 ('Robinson', 'Cano', 4, 4),
 ('Jorge', 'Posada', 5, 5),
 ('Mariano', 'Rivera', 6, 6),
-('Johnny', 'Damon', 7, NULL),
-('Andy', 'Petitte', 8, NULL),
-('CC', 'Sabathia', 9, NULL);
+('Johnny', 'Damon', 7, 1),
+('Andy', 'Petitte', 8, 2),
+('CC', 'Sabathia', 9, 3);
