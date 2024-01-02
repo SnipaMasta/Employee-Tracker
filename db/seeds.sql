@@ -24,4 +24,7 @@ VALUES
 ('Mark', 'Texeira', 3, 3),
 ('Robinson', 'Cano', 4, 4),
 ('Jorge', 'Posada', 5, 5),
-('Mariano', 'Rivera', 6, 6);
+('Mariano', 'Rivera', 6, 6),
+('Johnny', 'Damon', 7, NULL),
+('Andy', 'Petitte', 8, NULL),
+('CC', 'Sabathia', 9, NULL);
